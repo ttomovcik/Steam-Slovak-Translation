@@ -1,7 +1,7 @@
 "DualShock4"
 {
-	"origin_ps4_button_x"						"X Button"
-	"origin_ps4_button_circle"					"Circle Button"
+	"origin_ps4_button_x"						"X"
+	"origin_ps4_button_circle"					"Kružok"
 	"origin_ps4_button_square"					"Square Button"
 	"origin_ps4_button_triangle"				"Triangle Button"
 	"origin_ps4_pad_l_touch"					"Left Pad Touch"
