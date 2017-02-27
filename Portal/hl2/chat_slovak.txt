@@ -1,0 +1,16 @@
+﻿"lang"
+{
+"Language" "Slovak"
+"Tokens"
+{
+"chat_filterbutton"	"Filtre"
+"filter_joinleave"	"Pridania/Odobrania"
+"filter_namechange"	"Zmeny mien"
+"filter_publicchat"	"Verejný chat"
+"filter_servermsg"	"Správy zo servera"
+"filter_teamchange"	"Zmeny tímov"
+"filter_achievement" "Dosiahnutie achievementov"
+"chat_say"				"Chat :"
+"chat_say_team"			"Chat (TÍM) :"
+}
+}
