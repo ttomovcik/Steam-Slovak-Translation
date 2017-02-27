@@ -115,7 +115,7 @@
 "GameUI_Software"		"Softvér"
 "GameUI_OpenGL"			"OpenGL"
 "GameUI_D3D"			"D3D"
-"GameUI_Brightness"		"Ja"
+"GameUI_Brightness"		"Jas"
 "GameUI_Gamma"			"Gmma"
 "GameUI_Resolution"		"Rozlíšenie"
 "GameUI_VideoRestart"		"Poznámka: Akákoľvek zmena spôsobí vypnutie a reštart hry."
