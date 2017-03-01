@@ -162,11 +162,11 @@
 "vgui_Yesterday"			"Včera"
 "vgui_Tomorrow"				"Zajtra"
 
-"vgui_OnForDays"			"Po dobu %days% days"
+"vgui_OnForDays"			"Po dobu %days% dní"
 "vgui_OnForHours"			"Po dobu %hours% hod."
 "vgui_OnForMinutes"		"Po dobu %minutes% min."
 "vgui_OnForSeconds"		"Po dobu %seconds% sek."
-"vgui_OnForDay"			"Po dobu %days% deň"
+"vgui_OnForDay"			"Po dobu %days% dňa"
 "vgui_OnForHour"			"Po dobu %hours% hod."
 "vgui_OnForMinute"		"Po dobu %minutes% min."
 "vgui_OnForSecond"		"Po dobu %seconds% sek."
