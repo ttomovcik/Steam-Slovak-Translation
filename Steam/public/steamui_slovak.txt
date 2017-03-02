@@ -381,7 +381,7 @@ Týmto sa vám vyčistí vaša lokálna pamäť cache pre sťahovanie. Taktiež 
 "Steam_Status"					"Stav"
 
 "Steam_Status_OfflineMode"					"Režim Offline"
-"Steam_Status_NoConnection"					"Bez spojenia"
+"Steam_Status_NoConnection"					"Bez pripojenia"
 "Steam_Status_OneItemDownloading" 	"Preberanie "
 "Steam_Status_DownloadsPaused" 	"Preberanie pozastavené "
 "Steam_Status_OneItemPaused" 				"1 položka vo fronte "
