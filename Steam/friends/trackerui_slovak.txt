@@ -547,7 +547,7 @@
 "FriendsUI_SoundSystemTitle" "Select Sound Input"
 
 "friends_ingametooltip"	"V hre: %game%"
-"friends_pendinginvites" "%invites% ČAKAJÚ"
+"friends_pendinginvites" "%invites% POZVÁNOK"
 "Friends_ViewInvitesOnCommunityPage" "View invites on Community"
 "friends_ignoreallinvites"	"Ignorovať všetky pozvánky"
 "friends_acceptallinvites"	"Akceptovať všetky pozvánky"
