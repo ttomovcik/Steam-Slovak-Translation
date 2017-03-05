@@ -6,7 +6,7 @@ Toto Readme je zamerané na Preklad Steamu do Slovenčiny. Informacie v Readme s
 ## Veci ktorých sa držať
 - Klientovi v službe Steam vždy vykáme. `Zadajte heslo, Vaša platba bola úspešne spracovaná, ...`
 - Ména služieb ako "Big Picture", "Steam Cloud" neprekladáne, ale môžeme skloňovať. `Uložiť do Steam Cloudu`
-- Nepoužívať slovo "Služba" ak nie je v Anglickom preklade napr `Steam Support by mal biť Steam Podpora alebo, nie Podpora v službe Steam`
+- Nepoužívať slovo "Služba" ak nie je v Anglickom preklade napr `Steam Support by mal biť Steam Podpora alebo Podpora Steam, nie Podpora v službe Steam`
 
 ## Frázy
 - **Steam** Steam / Služba Steam `neskloňovať slovo steam`
