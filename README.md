@@ -11,15 +11,13 @@ Toto Readme je zamerané na Preklad Steamu do Slovenčiny. Informacie v Readme s
 - **Steam:** Steam / Služba Steam `neskloňovať slovo steam`
 - **"Language"** "Slovak"
 
-### Všeobecné Frázy
-- **Ok:** Ok
-- **Cancel:** Zrušiť
-- **Play:** Hrať
-- **Install:** Inštalovať / nainštalovať
-- **Hours, Minutes, Seconds** hod., min., sek. `Hodiny, Minúty, Sekundy`
-- **Connection:** Pripojenie
+### Frázy ktoré neprekladáme
+- **Greenlight:** Greenlight
+- **Steam Big Picture:** Steam Big Picture / Režim Big Picture ?
+- **Steam Cloud:** Steam Cloud
+- **Steam Guard:** Steam Guard
 
-### Steam Client
+### Frázy ktoré sa prekladajú, napr.
 - **Store:** Obchod
  - **Featured:** Hlavné / Vyznačené
  - **Explore:** Skúmať
@@ -29,11 +27,18 @@ Toto Readme je zamerané na Preklad Steamu do Slovenčiny. Informacie v Readme s
  - **Stats:** Štatistiky
 - **Library:** Knižnica
 - **Community:** Komunita
-
+ - **Discussions:** Diskusie
+ - **Market:** Trh
+ - **Broadcasts:** Vysielania
+ 
 - **Chat:** Chat / Konverzácia `žiaden čet atď.`
-- **Screenshot/s:** Screenshot/y
-
-- **Workshop:** Workshop (skloňovať) `Pridať do Workshopu, Nové vo Workshope`
-- **Greenlight:** Greenlight
-- **Steam Achievement/s:** Achievement/y
+- **Screenshot/s:** Fotka/ky / Snímka/ky
 - **Steam Big Picture:** Steam Big Picture / Režim Big Picture ?
+- **Steam Achievement/s:** Steam Achievement/y / Steam Úspech/chy
+
+- **Ok** Ok
+- **Cancel:** Zrušiť
+- **Play:** Hrať
+- **Install:** Inštalovať / nainštalovať
+- **Hours, Minutes, Seconds:** hod., min., sek. `Hodiny, Minúty, Sekundy`
+- **Connection:** Pripojenie
