@@ -3,7 +3,9 @@ Steam Client Translation to Slovak made by http://steamcommunity.com/groups/slov
 
 Toto Readme je zamerané na Preklad Steamu do Slovenčiny. Informacie v Readme sú frázy, výrazy, ako čo preložiť atd.
 
-Klientovi v službe Steam vždy vykáme. `Zadajte heslo, Vaša platba bola úspešne spracovaná, ...`
+## Veci ktorých sa držať
+- Klientovi v službe Steam vždy vykáme. `Zadajte heslo, Vaša platba bola úspešne spracovaná, ...`
+- Ména služieb ako "Big Picture", "Steam Cloud" neprekladáne, ale môžeme skloňovať. `Uložiť do Steam Cloudu`
 
 ## Frázy
 - **Steam:** Steam / Služba Steam `neskloňovať slovo steam`
