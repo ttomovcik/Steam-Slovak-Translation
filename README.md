@@ -12,5 +12,4 @@ Toto Readme je zamerané na Preklad Steamu do Slovenčiny. Informacie v Readme s
 - **Steam Big Picture:** Steam Big Picture / Režim Big Picture ?
 - **Hodiny, Minuty, Sekundy atd:** hod., min., sek.
 - **Screenshots/:** Screenshot/y
-- **Workshop:** Workshop (skloňovať)
-`Pridať do Workshopu, Nové vo Workshope`
+- **Workshop:** Workshop (skloňovať) `Pridať do Workshopu, Nové vo Workshope`
