@@ -6,6 +6,7 @@ Toto Readme je zamerané na Preklad Steamu do Slovenčiny. Informacie v Readme s
 ## Veci ktorých sa držať
 - Klientovi v službe Steam vždy vykáme. `Zadajte heslo, Vaša platba bola úspešne spracovaná, ...`
 - Ména služieb ako "Big Picture", "Steam Cloud" neprekladáne, ale môžeme skloňovať. `Uložiť do Steam Cloudu`
+- Nepoužívať slovo "Služba" ak nie je v Anglickom preklade napr `Steam Support by mal biť Steam Podpora alebo, nie Podpora v službe Steam`
 
 ## Frázy
 - **Steam** Steam / Služba Steam `neskloňovať slovo steam`
@@ -13,7 +14,7 @@ Toto Readme je zamerané na Preklad Steamu do Slovenčiny. Informacie v Readme s
 
 ### Frázy ktoré neprekladáme
 - **Greenlight** Greenlight
-- **Steam Big Picture** Steam Big Picture / Režim Big Picture ?
+- **Big Picture** Big Picture `Big Picture mode je Režim Big Picture, atd`
 - **Steam Cloud** Steam Cloud
 - **Steam Guard** Steam Guard
 
@@ -21,7 +22,7 @@ Toto Readme je zamerané na Preklad Steamu do Slovenčiny. Informacie v Readme s
 - **Store:** Obchod
  - **Featured** Hlavné / Vyznačené
  - **Explore** Skúmať
- - **Curators** Kurátory
+ - **Curators** Kurátori
  - **Wishlist** Zoznam prianí
  - **News** Správy
  - **Stats** Štatistiky
@@ -33,8 +34,8 @@ Toto Readme je zamerané na Preklad Steamu do Slovenčiny. Informacie v Readme s
  
 - **Chat** Chat / Konverzácia `žiaden čet atď.`
 - **Screenshot/s** Fotka/ky / Snímka/ky
-- **Steam Big Picture** Steam Big Picture / Režim Big Picture ?
 - **Steam Achievement/s** Steam Achievement/y / Steam Úspech/chy
+-""Steam Support" 
 
 - **Ok** Ok
 - **Cancel** Zrušiť
