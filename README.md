@@ -3,7 +3,8 @@ Steam Client Translation to Slovak made by http://steamcommunity.com/groups/slov
 
 Toto Readme je zamerané na Preklad Steamu do Slovenčiny. Informacie v Readme sú frázy, výrazy, ako čo preložiť atd.
 
-### Frázy
+## Frázy
+
 **Steam:** Steam / Služba Steam (neskloňovať slovo steam)
 
 **Ok:** Ok
