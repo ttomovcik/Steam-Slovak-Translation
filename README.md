@@ -31,10 +31,12 @@ Toto Readme je zamerané na Preklad Steamu do Slovenčiny. Informacie v Readme s
  - **Discussions** Diskusie
  - **Market** Trh
  - **Broadcasts** Vysielania
+
 - **Chat** Chat / Konverzácia `žiaden čet atď.`
 - **Screenshot/s** Fotka/ky / Snímka/ky
 - **Steam Achievement/s** Steam Achievement/y / Steam Úspech/chy
 - **Steam Support** Steam Podpra 
+
 - **Ok** Ok
 - **Cancel** Zrušiť
 - **Play** Hrať
