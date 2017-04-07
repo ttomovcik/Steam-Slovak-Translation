@@ -169,7 +169,7 @@
 "ServerBrowser_PendingPing"		"<čaká sa>"
 "ServerBrowser_NonSteamGame"	"Stav hry nie je k dispozícii."
 
-"ServerBrowser_AddSelectedToFavorites"	"Pridať zvolený server do obľúbených"
+"ServerBrowser_AddSelectedToFavorites"	"Pridať vybraný server do obľúbených"
 "ServerBrowser_AddAddressToFavorites"	"Pridať túto adresu do obľúbených"
 "ServerBrowser_FindGames"	"Hľadať hry na tejto adrese..."
 } 
